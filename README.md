@@ -11,7 +11,7 @@
 
 Cette notice d’instructions contient toutes les informations et les instructions nécessaires pour faire fonctionner, régler et entretenir votre coffre ***NX-5000*** correctement.
 
-Lisez la attentivement et respecter toutes les instructions et tous les conseils relatifs à votre sécurité.
+Lisez-la attentivement et respectez toutes les instructions et tous les conseils relatifs à votre sécurité.
 Ce manuel fait partie du coffre. Il doit l’accompagner pour tout déplacement ou en cas de revente. La responsabilité de le conserver dans son intégralité et en bonnes conditions incombe à l’utilisateur du coffre
 
 ## Sécurité du coffre
