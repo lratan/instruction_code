@@ -16,7 +16,7 @@ Ce manuel fait partie du coffre. Il doit l’accompagner pour tout déplacement 
 
 ## Sécurité du coffre
 
-Vous êtes à la recherche d'un coffre-fort de grande contenance pour sécuriser objets de valeurs et documents importants au sein de Demacia pour vos activités illicites ? L'association des malfrats noxien vous suggère ce coffre de sécurité série NX . Il est blindé anti-perçage au manganèse du système de condamnation. Conçu dans une structure en double paroi, indéformable et monobloc, il est homologué anti-effraction et garanti ignifuge. Muni d'une serrure haute sécurité à code, son volume important est de 500 L
+Vous êtes à la recherche d'un coffre-fort de grande contenance pour sécuriser objets de valeurs et documents importants au sein de Demacia pour vos activités illicites ? L'association des malfrats noxiens vous suggère ce coffre de sécurité série NX . Il est blindé anti-perçage au manganèse du système de condamnation. Conçu dans une structure en double paroi, indéformable et monobloc, il est homologué anti-effraction et garanti ignifuge. Muni d'une serrure haute sécurité à code, son volume important est de 500 L
 
 ## Utilisation
 
