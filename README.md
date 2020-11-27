@@ -16,11 +16,11 @@ Ce manuel fait partie du coffre. Il doit l’accompagner pour tout déplacement 
 
 ## Sécurité du coffre
 
-Vous êtes à la recherche d'un coffre-fort de grande contenance pour sécuriser objets de valeurs et documents importants au sein de Demacia pour vos activités illicites ? L'association des malfrats noxiens vous suggère ce coffre de sécurité série NX . Il est blindé anti-perçage au manganèse du système de condamnation. Conçu dans une structure en double paroi, indéformable et monobloc, il est homologué anti-effraction et garanti ignifuge. Muni d'une serrure haute sécurité à code, son volume important est de 500 L
+Vous êtes à la recherche d'un coffre-fort de grande contenance pour sécuriser objets de valeurs et documents importants au sein de Demacia pour vos activités illicites ? L'association des malfrats noxiens vous suggère ce coffre de sécurité série NX . Il est blindé anti-perçage au manganèse du système de condamnation. Conçu dans une structure en double paroi, indéformable et monobloc, il est homologué anti-effraction et garanti ignifuge. Muni d'une serrure haute sécurité à code, son volume important est de 5000 L
 
 ## Utilisation
 
-Saisissez le code personnel à 4 chiffres puis appuyer sur la touche entrée. Si le code entré est correct, l'ouverture est automatique. Laissez la porte s'ouvrir.
+Saisissez le code personnel à 4 chiffres puis appuyez sur la touche entrée. Si le code entré est correct, l'ouverture est automatique. Laissez la porte s'ouvrir.
 
 En cas d'oubli de votre code, les coffres de la série NX disposent d'un code passe-partout. Partez du centre du pavé numérique et appuyez sur la touche sous votre doigt. Déplacez votre doigt sur la gauche, puis sur la droite **DEUX FOIS** et enfin vers le bas avant d'abaisser votre doigt. Glissez subtilement votre doigt d'un cran vers le haut, pressez de nouveau et de **TOUTE VOS FORCES** la touche sélectionnée. Pour finir, il vous faudra faire une diagonale ↙ pour **ENFIN** trouver le dernier chiffre, terminez avec la touche **ENTRÉE**.
 
