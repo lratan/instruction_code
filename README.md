@@ -5,7 +5,7 @@
 1. [Objet de la notice](#Objet-de-la-notice)
 2. [Sécurité du coffre](#Sécurité-du-coffre)
 3. [Utilisation](#utilisation)
-4. [Ganrantie](#Ganrantie)
+4. [Garantie](#Garantie)
 
 ## Objet de la notice
 
@@ -26,7 +26,7 @@ En cas d'oubli de votre code, les coffres de la série NX disposent d'un code pa
 
 Ce passe-partout est désactivable. Si vous désirez garantir  la sécurité du contenu du coffre, il est **TRÈS RECOMMANDÉ** de ne pas laisser ce système en place une fois votre code définitif choisi.
 
-## Ganrantie
+## Garantie
 
 Ce produit est garanti par le réseau de la marque NX pour une durée de 2 ans sous réserve d’un montage et d’une installation conformes au mode d’emploi et d’une utilisation dans des conditions normales
 
